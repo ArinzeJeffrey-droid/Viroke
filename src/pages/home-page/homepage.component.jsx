@@ -4,6 +4,7 @@ import InfoSection from '../../components/info-section/info-section.component';
 import LandingImg from '../../components/landing-img/landing-img.component';
 import Footer from '../../components/footer/footer.component';
 import AltNav from '../../components/nav-bar/nav-bar.component';
+import "./homepage.styles.scss"
 
 
 

@@ -1,9 +1,9 @@
 import React from "react"
-import "./altNav.styles.css"
+import "./nav-bar.styles.css"
 import BgImage from "../../assets/image/nav_cusBg.PNG"
 
 
-class AltNav extends React.Component {
+class Navbar extends React.Component {
     constructor(){
         super()
         this.state = {
@@ -29,4 +29,4 @@ class AltNav extends React.Component {
     }
 }
 
-export default AltNav;
+export default Navbar;

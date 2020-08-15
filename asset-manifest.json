@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Viroke/static/css/main.887a69b3.chunk.css",
+    "main.js": "/Viroke/static/js/main.eabe46b6.chunk.js",
+    "main.js.map": "/Viroke/static/js/main.eabe46b6.chunk.js.map",
+    "runtime-main.js": "/Viroke/static/js/runtime-main.ebafb6e2.js",
+    "runtime-main.js.map": "/Viroke/static/js/runtime-main.ebafb6e2.js.map",
+    "static/js/2.131777b0.chunk.js": "/Viroke/static/js/2.131777b0.chunk.js",
+    "static/js/2.131777b0.chunk.js.map": "/Viroke/static/js/2.131777b0.chunk.js.map",
+    "index.html": "/Viroke/index.html",
+    "precache-manifest.63436b75edfbc38e958f03202c3a8819.js": "/Viroke/precache-manifest.63436b75edfbc38e958f03202c3a8819.js",
+    "service-worker.js": "/Viroke/service-worker.js",
+    "static/css/main.887a69b3.chunk.css.map": "/Viroke/static/css/main.887a69b3.chunk.css.map",
+    "static/js/2.131777b0.chunk.js.LICENSE.txt": "/Viroke/static/js/2.131777b0.chunk.js.LICENSE.txt",
+    "static/media/Group-292@2x.png": "/Viroke/static/media/Group-292@2x.63911ea8.png",
+    "static/media/Home-1@2x.png": "/Viroke/static/media/Home-1@2x.59dff3a4.png",
+    "static/media/Session Details@2x.png": "/Viroke/static/media/Session Details@2x.305637c8.png",
+    "static/media/Sessions Screen@2x.png": "/Viroke/static/media/Sessions Screen@2x.457d41aa.png",
+    "static/media/Wallet@2x.png": "/Viroke/static/media/Wallet@2x.391f31b1.png",
+    "static/media/appstore@2x.png": "/Viroke/static/media/appstore@2x.5a0872b9.png",
+    "static/media/google-play@2x.png": "/Viroke/static/media/google-play@2x.2ced755f.png",
+    "static/media/nav_bg2.png": "/Viroke/static/media/nav_bg2.1a790327.png",
+    "static/media/nav_cusBg.PNG": "/Viroke/static/media/nav_cusBg.dbaad6fe.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebafb6e2.js",
+    "static/js/2.131777b0.chunk.js",
+    "static/css/main.887a69b3.chunk.css",
+    "static/js/main.eabe46b6.chunk.js"
+  ]
+}

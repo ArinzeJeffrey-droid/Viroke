@@ -12,7 +12,7 @@
         }
         img {
             width: 100%;
-            height: 100%;
+            // height: 100%;
             @media screen and (max-width: 480px) {
                 // width: 400px;
             }
@@ -30,7 +30,7 @@
     clip-path: polygon(0 54%, 100% 27%, 100% 100%, 0% 100%);
     @media screen and (max-width: 480px) {
         clip-path: polygon(0 34%, 100% 27%, 100% 100%, 0% 100%);
-        margin-top: -500px;
+        margin-top: -620px;
         height: 120vh;
     }
     @media screen and (width: 768px) {

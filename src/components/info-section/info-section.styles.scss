@@ -1,0 +1,81 @@
+.section__container {
+    // border: 1px solid red;
+    display: flex;
+    width: 70%;
+    margin: auto;
+    @media screen and (max-width: 480px) {
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+    @media screen and (max-width: 800px) {
+        width: 100%;
+    }
+    .first__section {
+        width: 100%;
+        // border: 1px solid #fff;
+        .overlay__container {
+            // border: 1px solid yellow;
+            width: 300px;
+            margin: auto;
+            .top__image {
+                position: absolute;
+                height: 500px;
+                width: 300px;
+                margin-left: 100px;
+                margin-top: 100px;
+                @media screen and (max-width: 480px) {
+                    margin-left: 50px;
+                }
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .bottom__image {
+                position: relative;
+                top: 0;
+                left: 0;
+                height: 500px;
+                width: 300px;
+                z-index: 1;
+                @media screen and (max-width: 480px) {}
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }
+    }
+    .second__section {
+        width: 100%;
+        // border: 1px solid #fff;
+        display: flex;
+        flex-direction: column;
+        color: #b8c5d1;
+        .section__inner {
+            // border: 1px solid #fff;
+            margin: auto;
+            width: 70%;
+            height: 300px;
+            @media screen and (max-width: 480px) {
+                width: 90%;
+                height: auto;
+            }
+            h1 {
+                line-height: 1;
+                font-size: 35px;
+                padding-bottom: 20px;
+            }
+            p {
+                line-height: 1;
+            }
+        }
+    }
+}
+
+.flex__layout {
+    flex-direction: row-reverse;
+    @media screen and (max-width: 480px) {
+        flex-direction: column-reverse;
+    }
+}

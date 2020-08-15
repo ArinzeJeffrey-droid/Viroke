@@ -17,7 +17,6 @@
         // border: 1px solid red;
         height: 100%;
         display: flex;
-        // overflow: hidden;
         .landing__inner {
             margin: auto;
             width: 100%;
@@ -63,7 +62,6 @@
                 }
                 .intro__description {
                     // border: 1px solid red;
-                    // display: inline-block;
                     width: 60%;
                     margin: auto;
                     @media screen and (max-width: 480px) {

@@ -90,14 +90,12 @@
         background-position: center;
         background-repeat: no-repeat;
         left: 0;
-        /* top: 10px; */
         opacity: 1;
         z-index: 1;
         transition: all 0.5s ease;
     }
     .nav__links {
         text-align: center;
-        /* padding: 2re m; */
         width: 50%;
         margin: auto;
         margin-bottom: 10px;

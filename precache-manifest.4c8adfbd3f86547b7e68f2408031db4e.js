@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8d9aabce56e55e234ec07c43eb7bdf7",
+    "revision": "e263e550db2ba936c33ddad4852b5020",
     "url": "/Viroke/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Viroke/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "ae63c30877f138806eac",
-    "url": "/Viroke/static/css/main.d796aef7.chunk.css"
+    "revision": "8eea81d5854d392cfb55",
+    "url": "/Viroke/static/css/main.b98dd052.chunk.css"
   },
   {
     "revision": "8d309015b82cad5b16b9",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Viroke/static/js/2.ab58e27a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae63c30877f138806eac",
-    "url": "/Viroke/static/js/main.04b18ad2.chunk.js"
+    "revision": "8eea81d5854d392cfb55",
+    "url": "/Viroke/static/js/main.3c78d697.chunk.js"
   },
   {
     "revision": "2027969519013ec552dd",

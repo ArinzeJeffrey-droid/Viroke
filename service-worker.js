@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Viroke/precache-manifest.33c1be2785bdd9c3866a51f55991bf2d.js"
+  "/Viroke/precache-manifest.4c8adfbd3f86547b7e68f2408031db4e.js"
 );
 
 self.addEventListener('message', (event) => {

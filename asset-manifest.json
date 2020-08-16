@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Viroke/static/css/main.d796aef7.chunk.css",
-    "main.js": "/Viroke/static/js/main.04b18ad2.chunk.js",
-    "main.js.map": "/Viroke/static/js/main.04b18ad2.chunk.js.map",
+    "main.css": "/Viroke/static/css/main.b98dd052.chunk.css",
+    "main.js": "/Viroke/static/js/main.3c78d697.chunk.js",
+    "main.js.map": "/Viroke/static/js/main.3c78d697.chunk.js.map",
     "runtime-main.js": "/Viroke/static/js/runtime-main.ebafb6e2.js",
     "runtime-main.js.map": "/Viroke/static/js/runtime-main.ebafb6e2.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/Viroke/static/css/2.f3cffc9e.chunk.css",
     "static/js/2.ab58e27a.chunk.js": "/Viroke/static/js/2.ab58e27a.chunk.js",
     "static/js/2.ab58e27a.chunk.js.map": "/Viroke/static/js/2.ab58e27a.chunk.js.map",
     "index.html": "/Viroke/index.html",
-    "precache-manifest.33c1be2785bdd9c3866a51f55991bf2d.js": "/Viroke/precache-manifest.33c1be2785bdd9c3866a51f55991bf2d.js",
+    "precache-manifest.4c8adfbd3f86547b7e68f2408031db4e.js": "/Viroke/precache-manifest.4c8adfbd3f86547b7e68f2408031db4e.js",
     "service-worker.js": "/Viroke/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/Viroke/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.d796aef7.chunk.css.map": "/Viroke/static/css/main.d796aef7.chunk.css.map",
+    "static/css/main.b98dd052.chunk.css.map": "/Viroke/static/css/main.b98dd052.chunk.css.map",
     "static/js/2.ab58e27a.chunk.js.LICENSE.txt": "/Viroke/static/js/2.ab58e27a.chunk.js.LICENSE.txt",
     "static/media/Group-292@2x.png": "/Viroke/static/media/Group-292@2x.63911ea8.png",
     "static/media/Home-1@2x.png": "/Viroke/static/media/Home-1@2x.59dff3a4.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.ebafb6e2.js",
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.ab58e27a.chunk.js",
-    "static/css/main.d796aef7.chunk.css",
-    "static/js/main.04b18ad2.chunk.js"
+    "static/css/main.b98dd052.chunk.css",
+    "static/js/main.3c78d697.chunk.js"
   ]
 }

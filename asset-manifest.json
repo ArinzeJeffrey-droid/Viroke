@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Viroke/static/css/main.887a69b3.chunk.css",
-    "main.js": "/Viroke/static/js/main.eabe46b6.chunk.js",
-    "main.js.map": "/Viroke/static/js/main.eabe46b6.chunk.js.map",
+    "main.css": "/Viroke/static/css/main.d796aef7.chunk.css",
+    "main.js": "/Viroke/static/js/main.04b18ad2.chunk.js",
+    "main.js.map": "/Viroke/static/js/main.04b18ad2.chunk.js.map",
     "runtime-main.js": "/Viroke/static/js/runtime-main.ebafb6e2.js",
     "runtime-main.js.map": "/Viroke/static/js/runtime-main.ebafb6e2.js.map",
-    "static/js/2.131777b0.chunk.js": "/Viroke/static/js/2.131777b0.chunk.js",
-    "static/js/2.131777b0.chunk.js.map": "/Viroke/static/js/2.131777b0.chunk.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/Viroke/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.ab58e27a.chunk.js": "/Viroke/static/js/2.ab58e27a.chunk.js",
+    "static/js/2.ab58e27a.chunk.js.map": "/Viroke/static/js/2.ab58e27a.chunk.js.map",
     "index.html": "/Viroke/index.html",
-    "precache-manifest.63436b75edfbc38e958f03202c3a8819.js": "/Viroke/precache-manifest.63436b75edfbc38e958f03202c3a8819.js",
+    "precache-manifest.33c1be2785bdd9c3866a51f55991bf2d.js": "/Viroke/precache-manifest.33c1be2785bdd9c3866a51f55991bf2d.js",
     "service-worker.js": "/Viroke/service-worker.js",
-    "static/css/main.887a69b3.chunk.css.map": "/Viroke/static/css/main.887a69b3.chunk.css.map",
-    "static/js/2.131777b0.chunk.js.LICENSE.txt": "/Viroke/static/js/2.131777b0.chunk.js.LICENSE.txt",
+    "static/css/2.f3cffc9e.chunk.css.map": "/Viroke/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.d796aef7.chunk.css.map": "/Viroke/static/css/main.d796aef7.chunk.css.map",
+    "static/js/2.ab58e27a.chunk.js.LICENSE.txt": "/Viroke/static/js/2.ab58e27a.chunk.js.LICENSE.txt",
     "static/media/Group-292@2x.png": "/Viroke/static/media/Group-292@2x.63911ea8.png",
     "static/media/Home-1@2x.png": "/Viroke/static/media/Home-1@2x.59dff3a4.png",
     "static/media/Session Details@2x.png": "/Viroke/static/media/Session Details@2x.305637c8.png",
@@ -24,8 +26,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ebafb6e2.js",
-    "static/js/2.131777b0.chunk.js",
-    "static/css/main.887a69b3.chunk.css",
-    "static/js/main.eabe46b6.chunk.js"
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.ab58e27a.chunk.js",
+    "static/css/main.d796aef7.chunk.css",
+    "static/js/main.04b18ad2.chunk.js"
   ]
 }
